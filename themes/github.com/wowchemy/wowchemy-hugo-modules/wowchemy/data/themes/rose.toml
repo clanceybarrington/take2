@@ -5,13 +5,13 @@ name = "Rose"
 light = true
 
 # Primary
-primary = "rgb(251, 191, 183)"
+primary = "rgb(188, 171, 224)"
 
 # Menu
-menu_primary = "rgb(247, 247, 247)"
-menu_text = "#000"
+menu_primary = "rgb(188, 171, 224)"
+menu_text = "#fff"
 menu_text_active = "rgb(25, 25, 25)"
-menu_title = "#000"
+menu_title = "#fff"
 
 # Home sections
 home_section_odd = "#FFF"

@@ -20,7 +20,7 @@ links:
 - name: Custom Link
   url: http://example.org
 projects:
-- internal-project
+- internal
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 publication_types:
