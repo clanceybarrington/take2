@@ -1,5 +1,5 @@
 ---
-
+bio: ''
 education:
   courses:
   - course: M.S. in Statistics
