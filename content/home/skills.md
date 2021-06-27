@@ -23,6 +23,15 @@ feature:
 - icon: python
   icon_pack: fab
   name: Python
+- icon: database
+  icon_pack: fas
+  name: SQL
+- icon: file-excel
+  icon_pack: fas
+  name: Excel
+- icon: plus
+  icon_pack: fas
+  name: Tableau
 - icon: chart-line
   icon_pack: fas
   name: Statistics

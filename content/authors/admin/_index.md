@@ -34,4 +34,4 @@ title: Clancey Barrington
 
 Hello, I am a recent graduate! Currently, I am searching for a job in data science. I love the process on cleaning, analyzing, and visualizing data. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
