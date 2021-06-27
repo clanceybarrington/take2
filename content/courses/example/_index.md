@@ -4,6 +4,7 @@ linkTitle: Data Science
 summary: An example of using Wowchemy's Book layout for publishing online courses.
 title: "\U0001F4CA Learn Data Science"
 type: book
+draft: true
 ---
 
 {{< figure src="featured.jpg" >}}

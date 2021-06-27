@@ -3,6 +3,7 @@ date: "2021-01-01"
 title: Python basics
 type: book
 weight: 20
+draft: true
 ---
 
 Build a foundation in Python.

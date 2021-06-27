@@ -4,6 +4,7 @@ math: true
 title: Statistics
 type: book
 weight: 40
+draft: true
 ---
 
 Introduction to statistics for data science.
