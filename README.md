@@ -1,2 +1,2 @@
 # take2
-Website try 2
+My personal website using blogdown!
