@@ -30,7 +30,10 @@ contact_links:
     icon_pack: fab
     name: GitHub
     link: 'https://github.com/clanceybarrington'
-
+  - icon: plus
+    icon_pack: fas
+    name: Tableau Public
+    link: 'https://public.tableau.com/app/profile/clancey.barrington5124'
 # Site header
 
 main_menu:

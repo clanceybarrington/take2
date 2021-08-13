@@ -27,6 +27,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/clanceybarrington
+- icon: plus
+  icon_pack: fas
+  link: https://public.tableau.com/app/profile/clancey.barrington5124
 
 superuser: true
 title: Clancey Barrington
